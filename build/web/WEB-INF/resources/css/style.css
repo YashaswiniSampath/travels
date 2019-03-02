@@ -1,0 +1,116 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 6, 2018, 8:15:39 PM
+    Author     : VIDYA
+*/
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+    background-color: #e9ecef; 
+}
+
+#ContainerLoginForm{
+    margin-top: 250px;
+    padding: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#ContainerSelectForm{
+    margin-top: 250px;
+    padding: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+ 
+    
+}
+
+#systemAdminCard{
+    padding: 10px;
+    margin:10px;
+}
+
+#tradeAdminCard{
+    padding: 10px;
+    margin:10px;
+}
+
+#subjectCard{
+    padding: 10px;
+    margin:10px;
+}
+
+#tradeCard{
+    padding: 10px;
+    margin:10px;
+}
+
+#cardTrainee{
+    padding: 10px;
+    margin:10px;
+}
+#cardInstructions{
+    padding: 10px;
+    margin:10px;
+}
+
+#cardExamActivity{
+    padding: 10px;
+    margin:10px;
+}
+
+#cardExamBody{
+    padding: 10px;
+    margin:10px;
+}
+
+#cardExamHead{
+    background-color: #343a40; 
+    padding: 10px;
+    margin:10px;
+}
+#cardExamFoot{
+    background-color: #343a40; 
+    padding: 10px;
+    margin:10px;
+}
+
+#cardExamResult{
+    padding: 10px;
+    margin:60px;
+}
+
+#RowOption{
+    margin-top: 3px;
+}
+
+#QuestionCol{
+    margin: 1px;
+}
+
+#cardExamQuePalette{
+    padding-right: 0px;
+    padding-top: 10px;
+    margin:10px;
+}
+
+#myContainer{
+    margin :25px;
+    
+}
+.wrapper{
+    position: relative;
+}
+i.fa-search{
+    position: absolute;
+    top: 5px;
+    right: auto;
+}
